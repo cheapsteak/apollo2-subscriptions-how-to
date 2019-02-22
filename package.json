@@ -9,6 +9,7 @@
     "google-auth-library": "^1.5.0",
     "graphql": "0.13.2",
     "graphql-tools": "^3.0.2",
+    "mongodb-memory-server": "3.1.1",
     "mongoose": "5.1.5",
     "winston": "^3.0.0"
   },
